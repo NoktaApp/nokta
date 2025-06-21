@@ -1,4 +1,4 @@
-# noktaapp
+# noktaApp
 
 A new Flutter project.
 
